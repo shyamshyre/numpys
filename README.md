@@ -2,27 +2,26 @@
 ## Dummies to Mummies in Numpys.
 ##### Master your self in Numpy's.
 
-## Defining the numpys .
-
-import numpy as np
-import pandas as pd
-
-This is how we define a single dimension array.
-np.array([1,2,3])
-
-## Defining 2 dimensional array's.
-
-np.array([[1,2,3],[4,5,6]])
-
-1 2 3
-4 5 6
-
-The above input get's transferred to following fashion ie a 2x2 matrix.
-2 rows 
-2 colums
-
-Defining multi dimensional Array
-
+## What we cover as part of this tutorial.
+#### Definition & Data Types of numpys
+  One Dimensional
+  Two Dimensional
+  Multi Dimensional
+  DataType 
+  Size
+  Shape
+  Dimension's - Define the number of axis/ dimensions to the array.
+  
+####  Filling the Numpys.
+  Fill the numpy using pandas.
+  Fill the numpy's custom shape using zero's
+  Fill the numpy's custom shape using one's
+  Fill the numpy's using random
+  Fill the numpy's using random.int()
+  Fill the numpy's using random.range()
+  Fill the numpy's using random.random()
+  Fill the numpy's using random.random()
+  
 
 
 
